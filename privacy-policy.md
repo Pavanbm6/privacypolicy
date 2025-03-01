@@ -42,7 +42,7 @@ Our app integrates with Instagram API under Meta’s Developer Policy. Please re
 https://privacycenter.instagram.com/
 
 7. Updates to This Privacy Policy
-We may update this Privacy Policy periodically. The latest version will always be available at [Your Website / Privacy Policy URL].
+We may update this Privacy Policy periodically. The latest version will always be available at https://github.com/Pavanbm6/privacypolicy/blob/main/privacy-policy.md
 
 8. Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at:
